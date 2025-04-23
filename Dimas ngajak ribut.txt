@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Dimas ngajak ribut!
+=======
+Dimas ngajak ribut lagi
+>>>>>>> Database
